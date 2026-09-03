@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://claudius.example/sitemap.xml
