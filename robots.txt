@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://claudius.example/sitemap.xml
+Sitemap: https://claudius-one.vercel.app/sitemap.xml
